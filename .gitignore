@@ -1,0 +1,4 @@
+dist
+node_modules
+src/static/libs
+.DS_Store
